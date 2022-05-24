@@ -1,0 +1,9 @@
+git clone (url)
+
+git add .
+
+git commit -m "whatever"
+
+git branch
+
+git push origin main
